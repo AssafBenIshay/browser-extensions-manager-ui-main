@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Files on GitHub](https://github.com/AssafBenIshay/browser-extensions-manager-ui-main/tree/main/BrowserExtentionManager)
+- Live Site URL: [Browser Extention Manager - by Assaf Ben Ishay](https://browser-extensions-manager-ui-main-one.vercel.app/)
 
 ## My process
 
